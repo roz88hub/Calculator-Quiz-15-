@@ -15,6 +15,6 @@ $(".evaluate").on( "click", function() {
  });
 
 $(".clear").on( "click", function() {
-	$('#calculatorInput').empty();
+	$('#calculatorInput').empty(); 
 });
 });
